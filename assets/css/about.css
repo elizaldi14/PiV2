@@ -7,7 +7,7 @@
     list-style: none;
 }
 body{
-    background: white;
+    background: whitesmoke;
 }
 main{
     margin-left: 100px;
@@ -83,6 +83,30 @@ main{
     display: inline;
     padding: 30px;
 }
+
+/*Derecha*/
+
+.aboutSectionRight{
+    margin-top: 200px;
+    display: flex;
+    background-color: aqua;
+}
+
+.imgAboutRight{
+    display: inline;
+    border-radius: 10px;
+    box-shadow: 0 0 5em -1em black;
+    margin-right: 50px;
+    position: relative;
+}
+
+.text-box-Right{
+    display: inline;
+    padding: 30px;
+    position: relative;
+    background-color: #e91e63;
+}
+
 
 /****************Footer*****************/
 
